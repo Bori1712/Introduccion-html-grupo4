@@ -17,3 +17,11 @@ Brackets: Editor de código enfocado en el desarrollo web, creado originalmente 
 
 
 Dreamweaver: Herramienta de Adobe que combina un editor visual (WYSIWYG: What You See Is What You Get) con un editor de código. Es muy usada para diseñar páginas web de manera más visual, aunque también permite trabajar directamente con el código HTML, CSS y JavaScript.
+
+WebStorm: Es un entorno de desarrollo integrado (IDE) creado por JetBrains, especializado en desarrollo web. Ofrece herramientas avanzadas para trabajar con HTML, CSS y JavaScript, incluyendo depuración, control de versiones y compatibilidad con frameworks modernos como React, Angular y Vue. Es ideal para desarrolladores que buscan un entorno profesional y completo.
+
+
+CodePen: Es una plataforma en línea que permite escribir, probar y compartir código HTML, CSS y JavaScript directamente desde el navegador, sin necesidad de instalar nada. Es muy popular para crear ejemplos rápidos, practicar diseño web y mostrar proyectos front-end. Además, permite ver los resultados en tiempo real mientras se escribe el código.
+
+
+Bluefish: Es un editor de código abierto y ligero, orientado al desarrollo web y de aplicaciones dinámicas. Soporta HTML, CSS, JavaScript y otros lenguajes de programación. Destaca por su rapidez, capacidad para manejar proyectos grandes y funciones como autocompletado, búsqueda avanzada y plantillas predefinidas. Ideal para desarrolladores que buscan eficiencia sin un IDE pesado.
